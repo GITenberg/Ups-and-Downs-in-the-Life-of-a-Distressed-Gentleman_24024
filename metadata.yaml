@@ -1,0 +1,29 @@
+_repo: Ups-and-Downs-in-the-Life-of-a-Distressed-Gentleman_24024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stone, William L. (William Leete)
+    aliases:
+    - Stone, William Leete
+    - Stone, W. L. (William Leete)
+    birthdate: 1792
+    deathdate: 1844
+    gutenberg_agent_id: '26169'
+    url: http://www.gutenberg.org/2009/agents/26169
+description: ''
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PS'
+title: Ups and Downs in the Life of a Distressed Gentleman
+url: http://www.gutenberg.org/ebooks/24024
