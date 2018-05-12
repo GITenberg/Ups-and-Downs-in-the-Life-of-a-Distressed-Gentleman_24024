@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26169'
     url: http://www.gutenberg.org/2009/agents/26169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24024#Ups-and-Downs-in-the-Life-of-a-Distressed-Gentleman
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
 identifiers:
